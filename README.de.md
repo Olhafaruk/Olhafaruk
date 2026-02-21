@@ -17,7 +17,8 @@ Ich habe kürzlich ein **Back-End Engineering Praktikum bei Trood (USA)** abgesc
 
 gearbeitet.
 
-📄 *Empfehlungsschreiben ist im Repository verfügbar.*
+📄 [Letter of recommendation](./Recommendation%20Back-End.pdf)
+
 
 ---
 
@@ -54,7 +55,8 @@ Module:
 - AI & Deep ML for Backend (40h)  
 - Final Team Project (32h)  
 
-📄 *Zertifikat im Repository verfügbar.*
+📄 [Certificate (Tel-Ran 428h)](./2025142%20Olha%20Faruk%20Python_428%20EN.pdf)
+
 
 ---
 
