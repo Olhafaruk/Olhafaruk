@@ -90,7 +90,7 @@ A full-stack task management system with:
 - Improved internal tools and workflows  
 - Demonstrated strong learning ability and persistence  
 
-📄 *Recommendation letter included in the repository.*
+📄 [Letter of recommendation](./Recommendation%20Back-End.pdf)
 
 ---
 
