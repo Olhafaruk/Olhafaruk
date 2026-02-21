@@ -86,7 +86,7 @@ Module:
 - Verbesserung interner Tools und Workflows  
 - Hohe Lernbereitschaft und Durchhaltevermögen  
 
-📄 *Empfehlungsschreiben im Repository.*
+📄 [Letter of recommendation](./Recommendation%20Back-End.pdf)
 
 ---
 
