@@ -142,4 +142,4 @@ A full-stack task management system with:
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+⭐ *If you're looking for a source of fresh, creative ideas — that's me, and I'm always happy to share them!*
