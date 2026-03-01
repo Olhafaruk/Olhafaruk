@@ -131,4 +131,4 @@ Module:
 
 ---
 
-⭐ *Danke für deinen Besuch!*
+⭐ *Wenn Sie nach frischen, kreativen Ideen suchen – genau das bringe ich mit und teile sie gerne mit Ihnen!*
