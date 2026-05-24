@@ -1,7 +1,13 @@
 <h1 align="center">Hallo, ich bin Olha 👋</h1>
-<h3 align="center">Back-End Engineer · Python · FastAPI · Microservices</h3>
+<h3 align="center">
+Back-End Engineer · Python · FastAPI · Microservices · Android Developer · Kotlin · Jetpack Compose · AI-powered Apps
+</h3>
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
@@ -27,10 +33,12 @@
 
 ## 🚀 Über mich
 
-Ich bin Backend‑Entwicklerin und konzentriere mich auf **saubere, skalierbare und produktionsreife Services**.  
-Ich arbeite gerne mit Microservice‑Architekturen, zuverlässigen Tests und klarer Dokumentation.
+Ich bin eine Backend‑Entwicklerin, die **skalierbare, saubere und produktionsreife Services** entwickelt.  
+Ich arbeite mit Microservices, Testing und modernen Backend‑Technologien.
 
-Ich habe kürzlich ein **Back-End Engineering Praktikum bei Trood (USA)** abgeschlossen, wo ich mit:
+Außerdem entwickle ich **Webanwendungen mit Django** sowie **mobile Android‑Apps mit Kotlin (Android Studio, Jetpack Compose)**.
+
+Ich habe ein **Back-End Engineering Praktikum bei Trood (USA)** abgeschlossen, wo ich mit:
 
 - Go & Java Frameworks  
 - Python (FastAPI)  
@@ -45,19 +53,29 @@ gearbeitet habe.
 
 ## 🛠️ Tech Stack
 
-**Backend:** Python · FastAPI · Django · SQLAlchemy · PostgreSQL · RabbitMQ · Go · Node.js  
-**Frontend:** React · Vite · TypeScript · TailwindCSS · Flutter  
-**DevOps:** Docker · Docker Compose · Nginx · GitHub Actions  
-**Testing:** pytest · Vitest · React Testing Library  
-**Architektur:** Microservices · Event-driven Systems
+**Backend:**  
+Python · FastAPI · Django · SQLAlchemy · PostgreSQL · RabbitMQ · Go · Node.js  
+
+**Frontend:**  
+React · Vite · TypeScript · TailwindCSS · Flutter  
+
+**Android:**  
+Kotlin · Android Studio · Jetpack Compose · MVVM + StateFlow · Room / DataStore · Material 3 · REST / AI API Integration (Gemini API)  
+
+**DevOps:**  
+Docker · Docker Compose · Nginx · GitHub Actions  
+
+**Testing:**  
+pytest · Vitest · React Testing Library  
+
+**Architektur:**  
+Microservices · Event-driven Systems
 
 ---
 
 ## 🎓 Ausbildung & Zertifikate
 
 ### 📘 Nationale Universität für Radioelektronik Charkiw (Ukraine)
-
-### 🎓 Berufliche Weiterbildung
 
 ### 📘 Python Software Development with AI & ML — Tel-Ran.de GmbH (Berlin)  
 **428 Stunden (2024–2025)**
@@ -75,18 +93,19 @@ Module:
 
 ---
 
-## ⭐ Highlight-Projekt
+## ⭐ Hauptprojekt — DialogTrainer (Startup)
 
-### 🔹 Smart Task Manager — Microservices Architektur
+### 🔹 **AI‑gestützte App zum Trainieren von Sprachdialogen**  
+Kotlin · Jetpack Compose · MVVM · Room · Gemini API
 
-- FastAPI‑Microservices  
-- RabbitMQ  
-- PostgreSQL  
-- React + TypeScript  
-- Docker  
-- 91% Testabdeckung  
+Hauptfunktionen:
+- AI‑generierte Dialoge  
+- Bewertung der Antwort (Korrektur, Punktzahl, Kommentar)  
+- Automatische Übersetzung  
+- Speichern vollständiger Dialoge  
+- Modernes Material‑3‑UI  
 
-👉 **Repo:** https://github.com/Olhafaruk/smart-task-manager
+👉 **Repository:** https://github.com/Olhafaruk/speaktok/tree/version1.0
 
 ---
 
@@ -104,23 +123,26 @@ Module:
 
 ---
 
+### 🎓 Lern-/Demoprojekt — Smart Task Manager
+
+Ein Microservices‑System, das meine Backend‑Kompetenzen demonstriert.
+
+**Stack:**  
+FastAPI‑Microservices · RabbitMQ · PostgreSQL (separate DB pro Service) · React + TypeScript · Docker · 91% Testabdeckung  
+
+👉 Repository: https://github.com/Olhafaruk/smart-task-manager
+
+---
+
 ## 📚 Aktuell lerne ich
 
-- Advanced FastAPI  
-- Async Python  
-- Observability (Prometheus, Grafana)  
-- AI/ML für Backend‑Automatisierung  
-- System Design  
+Advanced FastAPI · Async Python · Observability · Erweiterte Android‑Patterns · Jetpack Compose Optimierung · AI/ML · System Design
 
 ---
 
 ## 🎯 Ziele für 2026
 
-- Einstieg in ein Backend‑Team  
-- Entwicklung von 2–3 Microservice‑Projekten  
-- Verbesserung von Tests und CI/CD  
-- Open‑Source‑Beiträge  
-- Deutsch verbessern  
+Backend‑Team · 2–3 Microservice‑Projekte · CI/CD · Open‑Source‑Beiträge · DialogTrainer im Google Play veröffentlichen
 
 ---
 
@@ -131,4 +153,4 @@ Module:
 
 ---
 
-⭐ *Wenn Sie nach frischen, kreativen Ideen suchen – genau das bringe ich mit und teile sie gerne mit Ihnen!*
+⭐ *Wenn Sie nach frischen, kreativen Ideen suchen – genau das bringe ich mit und teile sie gerne!*
