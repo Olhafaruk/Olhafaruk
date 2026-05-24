@@ -1,9 +1,15 @@
 <h1 align="center">Hi, I'm Olha 👋</h1>
-<h3 align="center">Back-End Engineer · Python · FastAPI · Microservices</h3>
+<h3 align="center">
+Back-End Engineer · Python · FastAPI · Microservices · Android Developer · Kotlin · Jetpack Compose · AI-powered apps
+</h3>
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="Jetpack Compose"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
@@ -27,8 +33,10 @@
 
 ## 🚀 About Me
 
-I’m a backend engineer focused on building **clean, scalable, production‑ready services**.  
-I enjoy designing microservice architectures, writing reliable tests, and creating clear documentation.
+I’m a backend engineer who builds **clean, scalable, production‑ready services**.  
+I work with microservices, testing, and modern backend technologies.
+
+I also develop **web applications using Django** and **mobile applications using Kotlin (Android Studio, Jetpack Compose)**.
 
 I recently completed a **Back-End Engineering Internship at Trood (USA)**, where I worked with:
 
@@ -39,23 +47,26 @@ I recently completed a **Back-End Engineering Internship at Trood (USA)**, where
 
 📄 [Letter of recommendation](./Recommendation%20Back-End.pdf)
 
-
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend:** Python · FastAPI · Django · SQLAlchemy · PostgreSQL · RabbitMQ · Go · Node.js 
+**Backend:**  
+Python · FastAPI · Django · SQLAlchemy · PostgreSQL · RabbitMQ · Go · Node.js  
 
-**Frontend:** 
-React · Vite · TypeScript · TailwindCSS · Flutter 
+**Frontend:**  
+React · Vite · TypeScript · TailwindCSS · Flutter  
 
-**DevOps:** 
-Docker · Docker Compose · Nginx · GitHub Actions
+**Android:**  
+Kotlin · Android Studio · Jetpack Compose · MVVM + StateFlow · Room / DataStore · Material 3 · REST / AI API integration (Gemini API)  
 
-**Testing:**
-pytest · Vitest · React Testing Library
+**DevOps:**  
+Docker · Docker Compose · Nginx · GitHub Actions  
 
-**Architecture:**
+**Testing:**  
+pytest · Vitest · React Testing Library  
+
+**Architecture:**  
 Microservices · Event-driven systems
 
 ---
@@ -64,11 +75,8 @@ Microservices · Event-driven systems
 
 ### 📘 Kharkiv National University of Radioelectronics (Ukraine)
 
-## 🎓 Continuing Professional Education
-
 ### 📘 Python Software Development with AI & ML — Tel-Ran.de GmbH (Berlin)  
 **428 hours (2024–2025)**
-
 
 Modules included:
 
@@ -81,23 +89,21 @@ Modules included:
 
 📄 [Certificate (Tel-Ran 428h)](./2025142%20Olha%20Faruk%20Python_428%20EN.pdf)
 
-
 ---
 
-## ⭐ Featured Project
+## ⭐ Main Project — DialogTrainer (Startup)
 
-### 🔹 Smart Task Manager — Microservices Architecture  
-A full-stack task management system with:
+### 🔹 **AI-powered language dialogue trainer for Android**  
+Kotlin · Jetpack Compose · MVVM · Room · Gemini API
 
-- FastAPI microservices (Auth, Tasks, Notifications)  
-- RabbitMQ event processing  
-- PostgreSQL (separate DB per service)  
-- React + Vite + TypeScript frontend  
-- Multiple UI themes (Minimal, Neumorphism, Glassmorphism)  
-- Full Docker orchestration  
-- 91% test coverage  
+Key features:
+- AI‑generated dialogues  
+- Smart evaluation (corrections, score, comments)  
+- Automatic translation  
+- Save full conversations  
+- Clean Material 3 UI  
 
-👉 **Repo:** https://github.com/Olhafaruk/smart-task-manager
+👉 **Repository:** https://github.com/Olhafaruk/speaktok/tree/version1.0
 
 ---
 
@@ -106,32 +112,35 @@ A full-stack task management system with:
 ### **Back-End Engineer Intern — Trood Inc. (USA)**  
 *Aug 2025 – Sep 2025*
 
-- Developed backend features using Go and Java frameworks  
-- Worked with Python (FastAPI) for service integration  
-- Improved internal tools and workflows  
-- Demonstrated strong learning ability and persistence  
+- Developed backend features (Go, Java)  
+- Integrated Python microservices  
+- Improved internal tools  
+- Demonstrated strong learning ability  
 
 📄 [Letter of recommendation](./Recommendation%20Back-End.pdf)
 
 ---
 
+### 🎓 Educational/Demonstration Project — Smart Task Manager
+
+A microservices-based system demonstrating my backend engineering skills.
+
+**Stack:**  
+FastAPI microservices · RabbitMQ · PostgreSQL (separate DB per service) · React + TypeScript · Docker · 91% test coverage  
+
+👉 Repository: https://github.com/Olhafaruk/smart-task-manager
+
+---
+
 ## 📚 Currently Learning
 
-- Advanced FastAPI patterns  
-- Async Python  
-- Microservice observability (Prometheus, Grafana)  
-- AI/ML for backend automation  
-- System design fundamentals  
+Advanced FastAPI · Async Python · Observability · Advanced Android patterns · Jetpack Compose optimization · AI/ML · System Design
 
 ---
 
 ## 🎯 Goals for 2026
 
-- Join a backend engineering team (intern/junior)  
-- Build 2–3 new microservice-based projects  
-- Improve testing and CI/CD automation  
-- Contribute to open-source  
-- Strengthen German language skills  
+Backend team · 2–3 microservice projects · CI/CD · Open‑Source · Release DialogTrainer on Google Play
 
 ---
 
