@@ -1,7 +1,11 @@
 <h1 align="center">Привіт, я Ольга 👋</h1>
-<h3 align="center">Back-End Engineer · Python · FastAPI · Microservices</h3>
+<h3 align="center">Back-End Engineer · Python · FastAPI · Microservices · Android Developer · Kotlin · Jetpack Compose · AI-powered apps</h3>
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
@@ -29,6 +33,7 @@
 
 Я бекенд‑інженер, який створює **масштабовані, чисті та продакшн‑готові сервіси**.  
 Працюю з мікросервісами, тестуванням та сучасними технологіями.
+Займаюсь **розробкою вебсайтів на Django** та **мобільних застосунків на Kotlin (Android Studio, Jetpack Compose)**.
 
 Я завершила **Back-End Engineering Internship у Trood (USA)**, де працювала з:
 
@@ -44,7 +49,7 @@
 ## 🛠️ Tech Stack
 
 **Backend:** Python · FastAPI · Django · SQLAlchemy · PostgreSQL · RabbitMQ · Go · Node.js  
-**Frontend:** React · Vite · TypeScript · TailwindCSS · Flutter  
+**Frontend:** React · Vite · TypeScript · TailwindCSS · Flutter **Android:** Kotlin · Android Studio · Jetpack Compose · MVVM + StateFlow · Room / DataStore · Material 3 · Інтеграція REST / AI API (Gemini API)
 **DevOps:** Docker · Docker Compose · Nginx · GitHub Actions  
 **Тестування:** pytest · Vitest · React Testing Library  
 **Архітектура:** Microservices · Event-driven systems
@@ -73,18 +78,20 @@
 
 ---
 
-## ⭐ Основний проєкт
+## ⭐ Основний проєкт — DialogTrainer (стартап)
 
-### 🔹 Smart Task Manager — Мікросервісна архітектура
+### 🔹 **AI‑застосунок для тренування діалогів іноземною мовою**  
+Kotlin · Jetpack Compose · MVVM · Room · Gemini API
 
-- FastAPI мікросервіси  
-- RabbitMQ  
-- PostgreSQL  
-- React + TypeScript  
-- Docker  
-- 91% покриття тестами  
+Основні можливості:
+- AI‑згенеровані діалоги  
+- Оцінка відповіді (виправлення, бал, коментар)  
+- Автоматичний переклад  
+- Збереження повних діалогів  
+- Чистий Material 3 інтерфейс  
 
-👉 **Репозиторій:** https://github.com/Olhafaruk/smart-task-manager
+
+👉 **Репозиторій:** https://github.com/Olhafaruk/speaktok/tree/version1.0
 
 ---
 
@@ -100,17 +107,25 @@
 
 📄 [Рекомендаційний лист](./Recommendation%20Back-End.pdf)
 
+### 🎓Навчальний/демонстраційний проєкт — Smart Task Manager
+
+Мікросервісна система, що демонструє мої бекенд‑навички.
+
+**Стек:**
+ FastAPI мікросервіси · RabbitMQ · PostgreSQL (окрема БД для кожного сервісу) · React + TypeScript · Docker · 91% покриття тестами  
+
+👉 Репозиторій: https://github.com/Olhafaruk/smart-task-manager
 ---
 
 ## 📚 Зараз вивчаю
 
-Advanced FastAPI · Async Python · Observability · AI/ML · System Design
+Advanced FastAPI · Async Python · Observability · Розширені патерни Android · Оптимізація Jetpack Compose ·  AI/ML · System Design
 
 ---
 
 ## 🎯 Цілі на 2026
 
-Backend‑команда · 2–3 мікросервісні проєкти · CI/CD · Open‑Source · Німецька
+Backend‑команда · 2–3 мікросервісні проєкти · CI/CD · Open‑Source · Випустити DialogTrainer у Google Play
 
 ---
 
