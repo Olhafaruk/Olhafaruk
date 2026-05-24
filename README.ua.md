@@ -49,7 +49,8 @@
 ## 🛠️ Tech Stack
 
 **Backend:** Python · FastAPI · Django · SQLAlchemy · PostgreSQL · RabbitMQ · Go · Node.js  
-**Frontend:** React · Vite · TypeScript · TailwindCSS · Flutter **Android:** Kotlin · Android Studio · Jetpack Compose · MVVM + StateFlow · Room / DataStore · Material 3 · Інтеграція REST / AI API (Gemini API)
+**Frontend:** React · Vite · TypeScript · TailwindCSS · Flutter 
+**Android:** Kotlin · Android Studio · Jetpack Compose · MVVM + StateFlow · Room / DataStore · Material 3 · Інтеграція REST / AI API (Gemini API)
 **DevOps:** Docker · Docker Compose · Nginx · GitHub Actions  
 **Тестування:** pytest · Vitest · React Testing Library  
 **Архітектура:** Microservices · Event-driven systems
